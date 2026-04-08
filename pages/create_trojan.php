@@ -181,7 +181,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
                 
                 <div class="mb-4 px-2">
                     <label class="node-label mb-2" style="display:block;">Identify Remarks (Username)</label>
-                    <input type="text" id="username" name="user" class="input-elite" placeholder="Masukkan ID identitas akun Bos" required <?= $is_full ? 'disabled' : '' ?>>
+                    <input type="text" id="username" name="user" class="input-elite" placeholder="Username" required <?= $is_full ? 'disabled' : '' ?>>
                 </div>
                 
                 <div class="row g-3 mb-4 px-2">
@@ -191,7 +191,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
                         <input type="hidden" name="duration" value="<?= $display_days ?>">
                     </div>
                     <div class="col-6">
-                        <label class="node-label mb-2" style="display:block;">Allocation</label>
+                        <label class="node-label mb-2" style="display:block;">Bandwidth</label>
                         <div class="display-box"><?= (int)$s['quota_limit'] ?> GB</div>
                         <input type="hidden" name="quota" value="<?= $s['quota_limit'] ?>">
                     </div>
