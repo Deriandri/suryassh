@@ -14,9 +14,9 @@ if (!$conn) {
  */
 ?>
 <!-- SEO Meta Tags Tambahan -->
-<title>SSH Websocket (WS) Premium - UDP Custom, SlowDNS & OpenVPN | ZearGames</title>
+<title>SSH Websocket (WS) Premium - UDP Custom, SlowDNS & OpenVPN | SuryaSSH</title>
 <meta name="description" content="Layanan SSH Websocket (WS) Premium dengan dukungan UDP Custom, SlowDNS, Stunnel, dan OpenVPN. Nikmati koneksi stabil dengan CDN Cloudflare dan enkripsi tingkat tinggi.">
-<meta name="keywords" content="SSH Websocket, SSH WS, UDP Custom, SSH SlowDNS, OpenVPN, Stunnel, Cloudflare CDN, Tunneling, ZearGames">
+<meta name="keywords" content="SSH Websocket, SSH WS, UDP Custom, SSH SlowDNS, OpenVPN, Stunnel, Cloudflare CDN, Tunneling, SuryaSSH">
 
 <style>
     /* --- SYSTEM THEME ADAPTIVE (FIX DARK MODE) --- */
@@ -105,7 +105,7 @@ if (!$conn) {
     <section class="ssh-hero">
         <div class="container">
             <h1 class="hero-title">SSH Websocket (WS) Premium</h1>
-            <p class="hero-desc">ZearGames menghadirkan infrastruktur <span class="fw-bold text-primary">SSH Websocket (WS)</span> dengan teknologi optimasi CDN global. Kami mendukung berbagai metode tunneling termasuk <span class="fw-bold text-primary">UDP Custom, SlowDNS, Stunnel, dan OpenVPN</span> untuk memastikan kebebasan akses internet Anda tetap aman dan tak terbatas.</p>
+            <p class="hero-desc">SuryaSSH menghadirkan infrastruktur <span class="fw-bold text-primary">SSH Websocket (WS)</span> dengan teknologi optimasi CDN global. Kami mendukung berbagai metode tunneling termasuk <span class="fw-bold text-primary">UDP Custom, SlowDNS, Stunnel, dan OpenVPN</span> untuk memastikan kebebasan akses internet Anda tetap aman dan tak terbatas.</p>
             
             <div class="badge-container">
                 <div class="info-pill">SUPPORT <span>WEBSOCKET</span></div>
