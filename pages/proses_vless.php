@@ -203,7 +203,7 @@ if (isset($_GET['status']) && $_GET['status'] == 'success' && isset($_SESSION['v
 <div class="container result-container">
     <div class="elite-card animate__animated animate__fadeIn">
         <div class="banner-premium">
-            <h5>.::. ALWARI STORE .::.</h5>
+            <h5>.::. SURYA SSH .::.</h5>
             <p class="mb-0 opacity-75 small">Premium Profile Deployed Successfully</p>
         </div>
 
@@ -246,7 +246,7 @@ if (isset($_GET['status']) && $_GET['status'] == 'success' && isset($_SESSION['v
 
     <div class="vless-seo-section animate__animated animate__fadeInUp">
         <h6>Premium V2RAY Vless Technology</h6>
-        <p>Nikmati pengalaman internet tanpa batas dengan infrastruktur V2Ray Vless ZearGames.</p>
+        <p>Nikmati pengalaman internet tanpa batas dengan infrastruktur V2Ray Vless SuryaSSH.</p>
         <ul class="vless-feature-list">
             <li><i class="fas fa-check-circle"></i> High-Speed Xray Engine</li>
             <li><i class="fas fa-check-circle"></i> Low Overhead Encryption</li>
