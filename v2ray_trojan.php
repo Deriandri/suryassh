@@ -10,9 +10,9 @@ if (!$conn) {
 }
 ?>
 
-<title>V2Ray Trojan WebSocket Premium - Stealth Node Infrastructure | ZearGames</title>
+<title>V2Ray Trojan WebSocket Premium - Stealth Node Infrastructure | SuryaSSH</title>
 <meta name="description" content="Akses infrastruktur V2Ray Trojan WebSocket Premium dengan teknologi penyamaran trafik HTTPS. Bypass DPI, tembus GFW, dan nikmati koneksi tunneling paling aman dan anti-deteksi.">
-<meta name="keywords" content="Trojan WebSocket, Trojan GFW, Trojan V2Ray, Bypass DPI, Stealth Protocol, ZearGames, Akun Trojan Premium">
+<meta name="keywords" content="Trojan WebSocket, Trojan GFW, Trojan V2Ray, Bypass DPI, Stealth Protocol, SuryaSSH, Akun Trojan Premium">
 
 <style>
     /* --- TROJAN RED THEME SYSTEM --- */
@@ -104,7 +104,7 @@ if (!$conn) {
             <span class="section-label animate__animated animate__fadeIn">Stealth Protocol</span>
             <h1 class="hero-title animate__animated animate__fadeInDown">Trojan WebSocket Nodes</h1>
             <p class="hero-desc animate__animated animate__fadeInUp">
-                ZearGames menghadirkan infrastruktur <span class="fw-bold text-danger">Trojan WebSocket</span> paling mutakhir. Dirancang untuk meniru trafik HTTPS secara sempurna guna menembus sensor DPI.
+                SuryaSSH menghadirkan infrastruktur <span class="fw-bold text-danger">Trojan WebSocket</span> paling mutakhir. Dirancang untuk meniru trafik HTTPS secara sempurna guna menembus sensor DPI.
             </p>
             
             <div class="badge-row animate__animated animate__fadeInUp">
@@ -162,7 +162,7 @@ if (!$conn) {
             <div class="col-md-4">
                 <div class="seo-card shadow-sm">
                     <h5><i class="fas fa-user-secret"></i> Anti-GFW Stealth</h5>
-                    <p>Protokol Trojan di ZearGames dioptimalkan untuk menyamarkan sidik jari TLS Anda secara total.</p>
+                    <p>Protokol Trojan di SuryaSSH dioptimalkan untuk menyamarkan sidik jari TLS Anda secara total.</p>
                 </div>
             </div>
             <div class="col-md-4">
