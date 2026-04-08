@@ -30,7 +30,7 @@ $exp_srv = isset($s['date_expired']) ? strtotime($s['date_expired']) : $skrg;
 $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24)) : 0;
 ?>
 
-<title>V2Ray VLESS Elite Node | Next-Gen Tunneling Infrastructure - ZearGames</title>
+<title>V2Ray VLESS Elite Node | Next-Gen Tunneling Infrastructure - SuryaSSH</title>
 <meta name="description" content="Deploy premium V2Ray VLESS accounts with Xray-core. High-performance tunneling featuring Reality, XTLS, and uncompromised privacy.">
 
 <style>
@@ -162,7 +162,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
             <div class="node-row">
                 <i class="fas fa-link node-icon"></i>
                 <div class="node-content">
-                    <span class="node-label">Target Hostname</span>
+                    <span class="node-label">Hostname</span>
                     <span class="node-val"><?= htmlspecialchars($s['ip']) ?></span>
                 </div>
             </div>
@@ -203,7 +203,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
                 
                 <div class="mb-4 px-2">
                     <label class="node-label mb-2" style="display:block;">Identify Remarks (Username)</label>
-                    <input type="text" id="username" name="user" class="input-elite" placeholder="Masukkan ID identitas akun Bos" required <?= $is_full ? 'disabled' : '' ?>>
+                    <input type="text" id="username" name="user" class="input-elite" placeholder="Username" required <?= $is_full ? 'disabled' : '' ?>>
                 </div>
                 
                 <div class="row g-3 mb-4 px-2">
@@ -259,7 +259,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
         <div class="insight-block mt-4 shadow-sm">
             <h4 class="insight-title">Decoding VLESS Technology</h4>
             <p class="insight-text text-muted">
-                VLESS adalah protokol transmisi teringan dari ekosistem V2Ray yang memecahkan batasan efisiensi pada protokol tradisional. ZearGames mengintegrasikan teknologi ini dengan <strong>XTLS-Vision</strong> guna menjamin anonimitas total Bos.
+                VLESS adalah protokol transmisi teringan dari ekosistem V2Ray yang memecahkan batasan efisiensi pada protokol tradisional. SuryaSSH mengintegrasikan teknologi ini dengan <strong>XTLS-Vision</strong> guna menjamin anonimitas total Bos.
             </p>
             <div class="cta-mini-banner">
                 <i class="fas fa-globe-americas cta-decor"></i>
@@ -272,7 +272,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
 </div>
 
 <script>
-// --- LOGIKA PROTEKSI GLOBAL ZEARGAMES (UNIFIED) ---
+// --- LOGIKA PROTEKSI GLOBAL SuryaSSH (UNIFIED) ---
 document.addEventListener('DOMContentLoaded', function() {
     // 1. Identifikasi Perangkat Unik
     let sig = localStorage.getItem('zear_vElite_sig');
