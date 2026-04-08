@@ -31,7 +31,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
 ?>
 
 <!-- SEO & META AUTHORITY BOOSTER -->
-<title>Provisioning V2Ray VMess Premium Account - <?= strtoupper(htmlspecialchars($s['location'])) ?> | ZearGames</title>
+<title>Provisioning V2Ray VMess Premium Account - <?= strtoupper(htmlspecialchars($s['location'])) ?> | SuryaSSH</title>
 <meta name="description" content="Deploy your premium V2Ray VMess digital gateway. Powered by Xray-core with Cloudflare CDN integration for high-speed, secure, and authenticated access.">
 
 <style>
@@ -149,7 +149,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
         <div class="node-specs">
             <div class="spec-item">
                 <div class="spec-icon"><i class="fas fa-server"></i></div>
-                <div><span class="spec-label">Target Hostname</span><span class="spec-val"><?= htmlspecialchars($s['ip']) ?></span></div>
+                <div><span class="spec-label">Hostname</span><span class="spec-val"><?= htmlspecialchars($s['ip']) ?></span></div>
             </div>
             <div class="spec-item">
                 <div class="spec-icon"><i class="fas fa-shield-alt"></i></div>
@@ -177,7 +177,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
                 
                 <div class="mb-4 px-2">
                     <label class="spec-label mb-2 px-1">Authenticated Account ID (Username)</label>
-                    <input type="text" id="username" name="user" class="input-premium" placeholder="Enter your unique identifier" required <?= $is_full ? 'disabled' : '' ?>>
+                    <input type="text" id="username" name="user" class="input-premium" placeholder="Username" required <?= $is_full ? 'disabled' : '' ?>>
                 </div>
                 
                 <div class="row g-3 mb-5 px-2">
@@ -209,7 +209,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
     <section class="authority-section animate__animated animate__fadeInUp">
         <h2 class="auth-title">The Standard of VMess WebSocket Technology</h2>
         <p class="auth-text">
-            Layanan <strong>V2Ray VMess Premium</strong> dari ZearGames mendefinisikan ulang standar privasi digital. Infrastruktur kami dirancang khusus menggunakan arsitektur <strong>WebSocket (WS)</strong> dan <strong>gRPC</strong> yang berjalan melalui jalur <strong>CDN Cloudflare</strong>. Hal ini memastikan paket data Anda tersamarkan dalam lalu lintas HTTPS standar, memberikan kemampuan mitigasi <strong>DPI (Deep Packet Inspection)</strong> yang tak terkalahkan oleh provider lain.
+            Layanan <strong>V2Ray VMess Premium</strong> dari SuryaSSH mendefinisikan ulang standar privasi digital. Infrastruktur kami dirancang khusus menggunakan arsitektur <strong>WebSocket (WS)</strong> dan <strong>gRPC</strong> yang berjalan melalui jalur <strong>CDN Cloudflare</strong>. Hal ini memastikan paket data Anda tersamarkan dalam lalu lintas HTTPS standar, memberikan kemampuan mitigasi <strong>DPI (Deep Packet Inspection)</strong> yang tak terkalahkan oleh provider lain.
         </p>
 
         <div class="feature-grid">
@@ -230,7 +230,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
 </main>
 
 <script>
-// --- LOGIKA PROTEKSI GLOBAL ZEARGAMES (UNIFIED) ---
+// --- LOGIKA PROTEKSI GLOBAL SuryaSSH (UNIFIED) ---
 document.addEventListener('DOMContentLoaded', function() {
     // 1. Identifikasi Perangkat Unik
     let sig = localStorage.getItem('zear_vElite_sig');
