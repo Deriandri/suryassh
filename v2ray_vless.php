@@ -11,9 +11,9 @@ if (!$conn) {
 ?>
 
 <!-- SEO META TAGS & BOOSTER -->
-<title>V2Ray VLESS Premium - High Speed & Secure Node Infrastructure | ZearGames</title>
+<title>V2Ray VLESS Premium - High Speed & Secure Node Infrastructure | SuryaSSH</title>
 <meta name="description" content="Akses infrastruktur V2Ray VLESS Premium dengan optimasi Xray Core. Dukungan Reality, XTLS-Vision, dan gRPC untuk koneksi tunneling tercepat dan paling stabil.">
-<meta name="keywords" content="V2Ray VLESS, Vless Reality, XTLS Vision, gRPC Tunnel, ZearGames, Internet Cepat, Bypass DPI">
+<meta name="keywords" content="V2Ray VLESS, Vless Reality, XTLS Vision, gRPC Tunnel, SuryaSSH, Internet Cepat, Bypass DPI">
 
 <style>
     /* --- SYSTEM THEME ADAPTIVE --- */
@@ -131,7 +131,7 @@ if (!$conn) {
     <section class="vless-hero">
         <div class="container">
             <h1 class="vless-title">V2Ray VLESS Elite Node</h1>
-            <p class="vless-desc">ZearGames menyajikan infrastruktur <span class="fw-bold text-warning">VLESS</span> tercanggih dengan arsitektur rendah overhead. Nikmati transmisi data yang lebih efisien dan hemat daya.</p>
+            <p class="vless-desc">SuryaSSH menyajikan infrastruktur <span class="fw-bold text-warning">VLESS</span> tercanggih dengan arsitektur rendah overhead. Nikmati transmisi data yang lebih efisien dan hemat daya.</p>
             
             <div class="badge-row">
                 <div class="v-pill">REALITY</div>
@@ -227,7 +227,7 @@ if (!$conn) {
             <div class="row g-4">
                 <div class="col-lg-7">
                     <h6 class="fw-800 text-warning mb-3">VLESS Fundamental Logic</h6>
-                    <p class="small text-muted" style="line-height: 1.8;">VLESS (V-Less Encryption) menghilangkan enkripsi tradisional yang sering menyebabkan overhead. Dengan menyerahkan keamanan sepenuhnya pada TLS, VLESS mampu memindahkan data dengan throughput yang jauh lebih bersih bagi ZearGames user.</p>
+                    <p class="small text-muted" style="line-height: 1.8;">VLESS (V-Less Encryption) menghilangkan enkripsi tradisional yang sering menyebabkan overhead. Dengan menyerahkan keamanan sepenuhnya pada TLS, VLESS mampu memindahkan data dengan throughput yang jauh lebih bersih bagi SuryaSSH user.</p>
                 </div>
                 <div class="col-lg-5">
                     <div class="p-4 rounded-4 border" style="background: var(--bg-inner);">
