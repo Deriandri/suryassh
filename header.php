@@ -69,7 +69,7 @@
 <nav class="navbar sticky-top navbar-expand-lg">
     <div class="container">
         <a class="navbar-brand d-flex align-items-center" href="index.php">
-            <i class="fas fa-cube text-primary me-2"></i>ZEAR GAMES
+            <i class="fas fa-cube text-primary me-2"></i>Surya SSH
         </a>
         
         <div class="d-flex align-items-center order-lg-last ms-2">
