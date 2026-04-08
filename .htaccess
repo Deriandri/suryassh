@@ -1,0 +1,31 @@
+# --- ZEARGAMES ULTIMATE FIX ---
+# Menghapus konflik dan memperbaiki error 404
+
+RewriteEngine On
+RewriteBase /
+
+# 1. Paksa HTTPS (Cloudflare & Server Friendly)
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+
+# 2. Redirect index.php ke Root (/) untuk SEO
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*index\.php\ HTTP/
+RewriteRule ^(.*)index\.php$ / [L,R=301]
+
+# 3. Pastikan File .php Bisa Diakses Secara Langsung
+# Ini adalah perbaikan utama agar https://domain.com/install.php tidak 404
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^(.*)\.php$ $1.php [L]
+
+# 4. Izinkan Akses Tanpa Ekstensi (Opsional)
+# Jika user mengetik /install saja, server akan mencari install.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([^.]+)$ $1.php [NC,L]
+
+# 5. Keamanan: Sembunyikan Folder Indexing
+Options -Indexes
+AddDefaultCharset UTF-8
+
+# 6. Penanganan Error (Jika file benar-benar tidak ada)
+ErrorDocument 404 /index.php
