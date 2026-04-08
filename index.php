@@ -153,7 +153,7 @@ if (!$conn) {
                 <div class="service-icon-wrap" style="background: rgba(37, 99, 235, 0.1); color: #2563eb;"><i class="fas fa-terminal"></i></div>
                 <h6 class="fw-800 mb-2">SSH WebSocket</h6>
                 <p class="small text-muted mb-4 d-none d-md-block">Optimasi port 80/443 dengan jalur CDN Cloudflare untuk stabilitas total.</p>
-                <a href="ssh_websocket.php" class="btn-service" style="background: #2563eb;">Pilih SSH WS</a>
+                <a href="ssh_websocket.php" class="btn-service" style="background: #2563eb;">Create SSH WS</a>
             </div>
         </div>
 
@@ -163,7 +163,7 @@ if (!$conn) {
                 <div class="service-icon-wrap" style="background: rgba(34, 197, 94, 0.1); color: #22c55e;"><i class="fas fa-project-diagram"></i></div>
                 <h6 class="fw-800 mb-2">V2Ray VMess</h6>
                 <p class="small text-muted mb-4 d-none d-md-block">Protokol fleksibel dengan enkripsi multi-layer canggih untuk privasi maksimal.</p>
-                <a href="v2ray_vmess.php" class="btn-service" style="background: #22c55e;">Pilih VMess WS</a>
+                <a href="v2ray_vmess.php" class="btn-service" style="background: #22c55e;">Create VMess WS</a>
             </div>
         </div>
 
@@ -173,7 +173,7 @@ if (!$conn) {
                 <div class="service-icon-wrap" style="background: rgba(245, 158, 11, 0.1); color: #f59e0b;"><i class="fas fa-bolt"></i></div>
                 <h6 class="fw-800 mb-2">V2Ray VLESS</h6>
                 <p class="small text-muted mb-4 d-none d-md-block">Evolusi teringan tanpa overhead, mendukung teknologi Reality & Vision.</p>
-                <a href="v2ray_vless.php" class="btn-service" style="background: #f59e0b;">Pilih VLESS WS</a>
+                <a href="v2ray_vless.php" class="btn-service" style="background: #f59e0b;">Create VLESS WS</a>
             </div>
         </div>
 
@@ -183,7 +183,7 @@ if (!$conn) {
                 <div class="service-icon-wrap" style="background: rgba(239, 68, 68, 0.1); color: #ef4444;"><i class="fas fa-shield-virus"></i></div>
                 <h6 class="fw-800 mb-2">V2Ray Trojan</h6>
                 <p class="small text-muted mb-4 d-none d-md-block">Stealth mode menyamar sebagai trafik HTTPS standar untuk bypass DPI.</p>
-                <a href="v2ray_trojan.php" class="btn-service" style="background: #ef4444;">Pilih Trojan WS</a>
+                <a href="v2ray_trojan.php" class="btn-service" style="background: #ef4444;">Create Trojan WS</a>
             </div>
         </div>
     </div>
@@ -215,7 +215,7 @@ if (!$conn) {
         <div class="col-md-6">
             <div class="seo-card shadow-sm">
                 <h3><i class="fas fa-microchip text-warning"></i> Next-Gen VLESS Reality Technology</h3>
-                <p>Teknologi **VLESS Reality** adalah standar terbaru dalam dunia perutean. Dengan menghilangkan beban enkripsi internal berlebih (No-Overhead), VLESS menghasilkan latensi yang sangat rendah, menjadikannya pilihan utama bagi para *gamer* dan penikmat konten *streaming* 4K.</p>
+                <p>Teknologi **VLESS Reality** adalah standar terbaru dalam dunia perutean. Dengan menghilangkan beban enkripsi internal berlebih (No-Overhead), VLESS menghasilkan latensi yang sangat rendah, menjadikannya Createan utama bagi para *gamer* dan penikmat konten *streaming* 4K.</p>
             </div>
         </div>
         <!-- TROJAN -->
