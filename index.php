@@ -17,9 +17,9 @@ if (!$conn) {
 ?>
 
 <!-- SEO METADATA - ALL PROTOCOLS WEBSOCKET OPTIMIZED -->
-<title>ZearGames - Premium SSH WebSocket & V2Ray VLESS VMess Reality</title>
+<title>SuryaSSH - Premium SSH WebSocket & V2Ray VLESS VMess Reality</title>
 <meta name="description" content="Penyedia infrastruktur SSH WebSocket, V2Ray VMess, VLESS Reality, dan Trojan GFW premium. Nikmati koneksi stabil dengan optimasi CDN Cloudflare dan bypass DPI tercepat.">
-<meta name="keywords" content="ssh websocket, v2ray vmess, v2ray vless, v2ray trojan, vless reality, ssh ws cdn, xray core premium, zeargames, bypass internet positif">
+<meta name="keywords" content="ssh websocket, v2ray vmess, v2ray vless, v2ray trojan, vless reality, ssh ws cdn, xray core premium, SuryaSSH, bypass internet positif">
 
 <style>
     /* --- SYSTEM THEME ADAPTIVE --- */
@@ -94,9 +94,9 @@ if (!$conn) {
 <!-- MAIN HERO -->
 <section class="hero-banner">
     <div class="container">
-        <h1 class="animate__animated animate__fadeInDown">Elite WebSocket & <br> Tunneling Infrastructure</h1>
+        <h1 class="animate__animated animate__fadeInDown">Premium WebSocket & <br> Tunneling Infrastructure Gratis</h1>
         <p class="animate__animated animate__fadeInUp">
-            ZearGames menghadirkan solusi konektivitas premium dengan optimasi jalur **WebSocket** dan **CDN global**. Kami menjamin kebebasan akses internet dengan privasi mutakhir dan latensi rendah untuk aktivitas digital Anda.
+            SuryaSSH menghadirkan solusi konektivitas premium dengan optimasi jalur **WebSocket** dan **CDN global**. Kami menjamin kebebasan akses internet dengan privasi mutakhir dan latensi rendah untuk aktivitas digital Anda.
         </p>
         <div class="d-flex justify-content-center animate__animated animate__fadeInUp">
             <a href="#services" class="btn-hero btn-get">Get Started</a>
@@ -201,14 +201,14 @@ if (!$conn) {
         <div class="col-md-6">
             <div class="seo-card shadow-sm">
                 <h3><i class="fas fa-link text-primary"></i> Layanan SSH WebSocket Premium</h3>
-                <p>Layanan **SSH WebSocket** ZearGames dirancang khusus untuk melewati sensor firewall yang ketat melalui jalur **CDN (Content Delivery Network)**. Dengan optimasi port web standar, trafik tunnel Anda tersamarkan sempurna, memberikan jaminan uptime 99.9% dan koneksi stabil untuk kebutuhan browsing profesional.</p>
+                <p>Layanan **SSH WebSocket** SuryaSSH dirancang khusus untuk melewati sensor firewall yang ketat melalui jalur **CDN (Content Delivery Network)**. Dengan optimasi port web standar, trafik tunnel Anda tersamarkan sempurna, memberikan jaminan uptime 99.9% dan koneksi stabil untuk kebutuhan browsing profesional.</p>
             </div>
         </div>
         <!-- VMESS -->
         <div class="col-md-6">
             <div class="seo-card shadow-sm">
                 <h3><i class="fas fa-crown text-success"></i> V2Ray VMess WebSocket Premium</h3>
-                <p>Gunakan **V2Ray VMess WebSocket** untuk keamanan data end-to-end yang tak tertandingi. Menggunakan basis enkripsi asimetris dan autentikasi unik, VMess di ZearGames menawarkan durasi aktif panjang hingga 30 hari dengan kualitas server premium kelas dunia.</p>
+                <p>Gunakan **V2Ray VMess WebSocket** untuk keamanan data end-to-end yang tak tertandingi. Menggunakan basis enkripsi asimetris dan autentikasi unik, VMess di SuryaSSH menawarkan durasi aktif panjang hingga 30 hari dengan kualitas server premium kelas dunia.</p>
             </div>
         </div>
         <!-- VLESS -->
