@@ -154,7 +154,7 @@ if (isset($_GET['status']) && $_GET['status'] == 'success' && isset($_SESSION['t
 <div class="container result-container">
     <div class="result-card animate__animated animate__fadeIn">
         <div class="banner-elite">
-            <h5 class="fw-900 mb-0">.::. ALWARI STORE .::.</h5>
+            <h5 class="fw-900 mb-0">.::. SURYA SSH .::.</h5>
             <p class="mb-0 opacity-75 small">Trojan Profile Deployed Successfully</p>
         </div>
         <div class="meta-bar">
