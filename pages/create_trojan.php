@@ -31,7 +31,7 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
 ?>
 
 <!-- SEO & META BOOSTER TROJAN -->
-<title>V2Ray Trojan Elite Node | Secure Stealth Infrastructure - ZearGames</title>
+<title>V2Ray Trojan Elite Node | Secure Stealth Infrastructure - SuryaSSH</title>
 <meta name="description" content="Deploy premium V2Ray Trojan accounts with Xray-core. High-performance stealth tunneling featuring WebSocket, gRPC, and uncompromised privacy for GFW bypass.">
 
 <style>
@@ -233,14 +233,14 @@ $display_days = ($exp_srv - $skrg > 0) ? ceil(($exp_srv - $skrg) / (60 * 60 * 24
         <div class="cta-mini-banner">
             <i class="fas fa-globe-americas cta-decor" style="position: absolute; right: -20px; bottom: -20px; font-size: 120px; opacity: 0.1; color: #fff; transform: rotate(-15deg);"></i>
             <h4>Experience Stealth Freedom</h4>
-            <p>Deploy your ZearGames Trojan account now and enjoy superior performance with our professionally optimized network nodes.</p>
+            <p>Deploy your SuryaSSH Trojan account now and enjoy superior performance with our professionally optimized network nodes.</p>
             <a href="#trojanForm" class="btn-cta-white">Initialize Account</a>
         </div>
     </div>
 </div>
 
 <script>
-// --- LOGIKA PROTEKSI GLOBAL ZEARGAMES (UNIFIED) ---
+// --- LOGIKA PROTEKSI GLOBAL SuryaSSH (UNIFIED) ---
 document.addEventListener('DOMContentLoaded', function() {
     // 1. Identitas Perangkat Unik
     let sig = localStorage.getItem('zear_vElite_sig');
