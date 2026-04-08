@@ -116,7 +116,7 @@ $display_days = ($diff > 0) ? ceil($diff / (60 * 60 * 24)) : 0;
 <header class="page-header">
     <div class="container">
         <h1 class="header-title">SSH All In One Premium</h1>
-        <p class="header-subtitle">Nikmati kebebasan akses internet dengan infrastruktur multi-protokol ZearGames yang stabil, aman, dan dioptimalkan untuk performa maksimal.</p>
+        <p class="header-subtitle">Nikmati kebebasan akses internet dengan infrastruktur multi-protokol SuryaSSH yang stabil, aman, dan dioptimalkan untuk performa maksimal.</p>
         
         <div class="badge-row">
             <div class="badge-pill">SUPPORT <span>WEBSOCKET</span></div>
@@ -182,7 +182,7 @@ $display_days = ($diff > 0) ? ceil($diff / (60 * 60 * 24)) : 0;
                     </div>
                     <div class="col-6">
                         <label class="label-pro">Device Limit</label>
-                        <div class="input-readonly"><?= (int)$s['device_limit'] ?> Sessions</div>
+                        <div class="input-readonly"><?= (int)$s['device_limit'] ?> Devices</div>
                     </div>
                 </div>
 
@@ -204,7 +204,7 @@ $display_days = ($diff > 0) ? ceil($diff / (60 * 60 * 24)) : 0;
 
     <div class="info-container">
         <p class="intro-text">
-            <strong>Enterprise Infrastructure:</strong> Sistem ZearGames All-In-One SSH mengintegrasikan berbagai lapisan keamanan termasuk enkripsi asimetris dan protokol obfuscation. Kami menjamin privasi total dan kecepatan tanpa batas melalui jalur perutean cerdas global.
+            <strong>Enterprise Infrastructure:</strong> Sistem SuryaSSH All-In-One SSH mengintegrasikan berbagai lapisan keamanan termasuk enkripsi asimetris dan protokol obfuscation. Kami menjamin privasi total dan kecepatan tanpa batas melalui jalur perutean cerdas global.
         </p>
 
         <h3 style="font-weight: 800; font-size: 18px; margin-bottom: 25px; color: var(--primary);">Infrastructure Security Features</h3>
