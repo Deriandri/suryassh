@@ -85,6 +85,7 @@
             <ul class="navbar-nav ms-auto text-center text-lg-start">
                 <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="ssh_websocket.php">SSH Server</a></li>
+                <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="subTrigger">V2Ray Service</a>
                     <ul class="dropdown-menu" id="subContent">
