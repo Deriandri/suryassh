@@ -100,7 +100,7 @@ if (!$conn) {
         </p>
         <div class="d-flex justify-content-center animate__animated animate__fadeInUp">
             <a href="#services" class="btn-hero btn-get">Get Started</a>
-            <a href="status.php" class="btn-hero btn-status">Status Sistem</a>
+            <a href="server_status.php" class="btn-hero btn-status">Status Sistem</a>
         </div>
     </div>
 </section>
